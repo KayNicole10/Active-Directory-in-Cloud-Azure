@@ -1,4 +1,4 @@
-# Active-Directory-in-Cloud-Azure
+# Active-Directory-in-Cloud-Azure-Part-1
 
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
